@@ -4,14 +4,14 @@
 
 ## 项目技术栈
 ### 后端技术栈
-1.Spring Boot
-2.MyBatis
-3.MySQL
+- 1.Spring Boot
+- 2.MyBatis
+- 3.MySQL
 
 ### 前端技术栈
-1.Vue
-2.vue-router
-3.vue-cli
+- 1.Vue
+- 2.vue-router
+- 3.vue-cli
 ...
 
 ## 更新记录
