@@ -8,7 +8,7 @@
 2.MyBatis
 3.MySQL
 
-前端技术栈
+### 前端技术栈
 1.Vue
 2.vue-router
 3.vue-cli
